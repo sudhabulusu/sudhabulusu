@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhabulusu
-- 👀 I’m interested in learning Python 
-- 🌱 I’m currently learning AWS foundations and pursuing certifications
+- 👀 I’m studying full-stack development and am interested in learning Python.
+- 🌱 I’m an AWS Certified Cloud Practitioner and plan to continue learning AWS and become an AWS Certified Solutions Architect.
 
 <!---
 sudhabulusu/sudhabulusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
